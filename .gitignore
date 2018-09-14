@@ -1,2 +1,8 @@
 node_modules/*
 package-lock.json
+managerone/node_modules/*
+managerone/.env
+managerone/package-lock.json
+managerone/.db
+managerone/components/routes/*
+managerone/.sass-cache/*
